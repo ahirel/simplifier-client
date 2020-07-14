@@ -1,4 +1,13 @@
 {
-	"name": "@simplifier/client",
-	"version": "0.0.2"
+  "name": "@simplifier/client",
+  "version": "0.0.3",
+  "description": "Simplifier.eu Node.js client",
+  "license": "MIT",
+  "repository": "simplifier/client",
+  "main": "index.js",
+  "keywords": [
+    "simplifier",
+    "api",
+    "integration"
+  ]
 }
